@@ -1,0 +1,16 @@
+{
+    "name": "tampv/data-parser",
+    "description": "Trình phân tích dữ liệu",
+    "authors": [
+        {
+            "name": "Phan Tâm",
+            "email": "tampv.bg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DataParser\\": "src/"
+        }
+    }
+
+}
